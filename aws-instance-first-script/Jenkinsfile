@@ -25,7 +25,6 @@ pipeline {
                         dir("terraform")
                         {
                             git "https://github.com/sathiyaraj2004/Terraform-Tutorial.git"
-"
                         }
                     }
                 }
